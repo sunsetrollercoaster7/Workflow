@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+~$*.docx
+
+# Personal data: this repo is public. Never commit CVs, applications or contact details.
+master/*
+!master/README.md
+applications/*
+!applications/README.md
