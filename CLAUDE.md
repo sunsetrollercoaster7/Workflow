@@ -25,8 +25,17 @@ MARAM, CALD, Child Safe Standards, key selection criteria).
    - Only use facts from `master/`. **Never invent** experience, skills, qualifications, dates or numbers.
    - Reorder and trim to what's relevant; mirror the job's keywords where they're truthfully supported.
    - Max 2 pages. Strong action verbs, quantified results where the master CV has them.
+   - Section order is fixed (from the repo description):
+     1. `## Profile` (background), 2. `## Education` (with relevant subjects),
+     3. `## Social Work Skills` (or skills named for the field), 4. `## Soft Skills`,
+     5. `## Placement Experience`, 6. `## Work Experience`, 7. `## Volunteer Experience`,
+     8. `## Licences and Certifications`. Optional last line: referees available on request.
 4. Write `cover_letter.md`: under one page, addressed to the hiring manager if named,
    specific to the company and role, links 2–3 achievements to the top requirements.
+   - Address **values and goals**: name the organisation's stated values/mission (from the ad or
+     its website) and show, with a real example, where the user's practice reflects them; say
+     honestly where the role fits the user's career goals. Never invent personal backstory or
+     motivations: if `master/profile.md` doesn't state goals, keep them general and flag in `notes.md`.
    - If the ad has **key selection criteria (KSC)**, also write `ksc.md` (built to
      `<Name>_Selection_Criteria_<Company>.docx`): one `## Criterion` heading each, answered with
      the STAR method (Situation, Task, Action, Result) in flowing prose, not labelled S/T/A/R,
