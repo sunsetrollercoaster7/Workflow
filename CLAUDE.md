@@ -37,7 +37,8 @@ MARAM, CALD, Child Safe Standards, key selection criteria).
      honestly where the role fits the user's career goals. Never invent personal backstory or
      motivations: if `master/profile.md` doesn't state goals, keep them general and flag in `notes.md`.
    - If the ad has **key selection criteria (KSC)**, also write `ksc.md` (built to
-     `<Name>_Selection_Criteria_<Company>.docx`): one `## Criterion` heading each, answered with
+     `<Name>_Selection_Criteria_<Company>.docx`, built with `--letter`): one `### N. Criterion` heading each
+     (`###`, because `##` renders in capitals), answered with
      the STAR method (Situation, Task, Action, Result) in flowing prose, not labelled S/T/A/R,
      drawing on a different example per criterion where possible. Respect any word/page limit.
    - If there are no formal KSC, the cover letter still addresses the 3–4 key requirements of the
